@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Norbert Mamczura - portfolio - IT, prawo oraz eventy.">
+    <meta name="color-scheme" content="light">
+    <title>Portfolio CV</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <div class="site-shell">
+      <nav class="languages" aria-label="Wybór języka">
+        <button class="language-button" type="button" data-language="pl" aria-label="Polski" title="Polski">
+          <span aria-hidden="true">🇵🇱</span>
+        </button>
+        <button class="language-button" type="button" data-language="de" aria-label="Deutsch" title="Deutsch">
+          <span aria-hidden="true">🇩🇪</span>
+        </button>
+        <button class="language-button" type="button" data-language="en" aria-label="English" title="English">
+          <span aria-hidden="true">🇬🇧</span>
+        </button>
+      </nav>
+
+      <header class="profile">
+        <p class="eyebrow" id="eyebrow">Portfolio / CV</p>
+        <h1 id="profile-name">Maciek [nazwisko]</h1>
+        <p class="profile-summary" id="profile-summary">Programowanie · Prawo · Produkcja wydarzeń</p>
+        <div class="profile-details">
+          <p class="profile-education" id="profile-education">Magister prawa · WSPIA Rzeszów · 2017–2022</p>
+          <p class="profile-meta">
+            <a id="profile-phone" href="tel:+48794719123">Telefon: +48 794 719 123</a>
+          </p>
+          <p class="profile-meta">
+            <a id="profile-email" href="mailto:norbertmamczura@gmail.com">
+              norbertmamczura@gmail.com
+            </a>
+          </p>
+          <p class="profile-meta">
+            <span id="profile-english">Angielski: C1</span>
+          </p>
+        </div>
+
+      </header>
+
+      <main id="main-content" tabindex="-1">
+        <section id="home-view" aria-labelledby="areas-title">
+          <div class="section-heading">
+            <p class="eyebrow" id="areas-label">Obszary</p>
+            <h2 id="areas-title">Trzy części mojego doświadczenia</h2>
+          </div>
+          <div class="area-grid" id="area-grid"></div>
+        </section>
+
+        <section id="detail-view" class="detail-view" hidden aria-live="polite">
+          <nav class="section-tabs" id="section-tabs" aria-label="Obszary doświadczenia"></nav>
+          <article class="markdown-content" id="markdown-content">
+            <p class="loading">Wczytywanie…</p>
+          </article>
+        </section>
+      </main>
+
+      <footer>
+        <span id="footer-copy">Portfolio CV</span>
+        <span aria-hidden="true">·</span>
+        <span id="footer-year"></span>
+      </footer>
+    </div>
+
+    <noscript>Ta strona wymaga włączonego JavaScriptu do przełączania treści.</noscript>
+  </body>
+</html>
