@@ -2,7 +2,7 @@
 
 ## Wykształcenie
 
-Ukończyłem studia jednolite magisterskie na kierunku prawo (2017–2022). Przez cały okres studiów otrzymywałem stypendium rektora dla najlepszych studentów.
+Ukończyłem studia jednolite magisterskie na kierunku prawo (2017–2022).
 
 Zdałem maturę rozszerzoną z większości przedmiotów ścisłych (matematyka, fizyka, chemia, geografia, biologia)
 
@@ -16,7 +16,7 @@ Od 2023 do 2026 pracowałem w Sanmarks sp. z o.o. oraz Tele-centrum sp. z o.o., 
 - Przygotowywanie, opiniowanie i negocjowanie wszelkiego rodzaju umów z innymi podmiotami biznesowymi
 - Pozytywne dla firmy zakończenie wcześniejszych postępowań PUODO
 - Obsługa wniosków podmiotów danych (za mojej kadencji żadna osoba nie wystąpiła ze skargą do UODO, wszystkie sprawy zakończyły się polubownie)
-- Szkolenia dla konsultantów w sprawach rodowych na bazie autorskiego programu
+- Szkolenie konsultantów w zakresie RODO na bazie własnego programu
 
 ### Sanmarks sp. z o.o. – Dział handlowy
 
@@ -33,10 +33,6 @@ Od 2023 do 2026 pracowałem w Sanmarks sp. z o.o. oraz Tele-centrum sp. z o.o., 
 ### Podkarpacka Akademia Bezpieczeństwa
 
 Praca z młodzieżą polegająca między innymi na organizowaniu symulowanych rozpraw z generałem policji.
-
-### Młodzieżowa Rada Miejska
-
-Byłem doradcą Młodzieżowej Rady Miejskiej – zorganizowałem konferencję popularno-naukową z naukowcami z CERN i z Politechniki Warszawskiej.
 
 ## Dodatkowe
 
