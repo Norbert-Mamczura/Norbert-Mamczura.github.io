@@ -22,7 +22,9 @@ W 2021 roku – zarządzanie całością małej sceny (m.in. koordynacja ludźmi
 
 W 2022 i 2023 roku – praca przy scenie głównej (z takimi zespołami jak KSU, Kazik).
 
-## Dodatkowe doświadczenie muzyczne
+## Dodatkowe doświadczenie
+
+Zorganizowałem konferencję popularnonaukową z udziałem naukowców z CERN-u i Uniwersytetu Warszawskiego.
 
 Nauka gry na instrumentach dla młodzieży przez cały rok szkolny, w ramach tego prowadzenie zajęć i organizacja pracy innych nauczycieli.
 
