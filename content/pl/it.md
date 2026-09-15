@@ -29,7 +29,7 @@ Od 2023 do 2026 pracowałem w Sanmarks sp. z o.o. oraz Tele-centrum sp. z o.o., 
 **System zarządzania eventami**
 *Django, HTMX*
 Rozbudowany system CRM napisany w Django do zarządzania pracownikami i firmami na wielu eventach jednocześnie. Aplikacja pozwala organizatorom m.in. agregować dane o podwykonawcach, zarządzać dostępami i opaskami, a ochronie identyfikować pracowników przez system kodów QR.
-System został z powodzeniem wykorzystany podczas dużych imprez masowych, w tym koncertu Eda Sheerana we Wrocławiu oraz Drift Masters na Stadionie Narodowym w Warszawie.
+System został wykorzystany podczas dużych imprez masowych, w tym koncertu Eda Sheerana we Wrocławiu oraz Drift Masters na Stadionie Narodowym w Warszawie.
 
 **System analizy rozmów dla call center**
 *Whisper API, LLM (RAG), Django, Celery, Redis*
@@ -50,7 +50,7 @@ Strona sprzedażowa z kilkoma ciekawymi sposobami prezentacji danych. Jednak naj
 Tworzyłem, wprowadzałem zmiany i zarządzałem stronami napisanymi zarówno w Wordpress, Django, czy klasycznym kodzie.
 
 **Strona internetowa festiwalu Folkowisko**
-Stworzenie systemu do informowania o warsztatach (Wordpress, Google App Script) oraz wyświetlanie ich uczestnikom na imprezie przez Starlinka.
+Stworzenie systemu do informowania o warsztatach (Wordpress, Google App Script) oraz wyświetlanie ich uczestnikom festiwalu przez Starlinka (działanie w warunkach braku zasięgu sieci).
 
 ## Projekty niekomercyjne
 
